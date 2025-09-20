@@ -32,18 +32,38 @@
 </div>
 
 <!-- My Certifications Section -->
-<h2 align="center" style="margin-top: 40px;">My Certifications</h2>
-<div style="text-align: center; margin: 20px 0;">
+<h2  style="margin-top: 40px;">My Certifications</h2>
+<div style="text-align: center; margin: 40px 0;">
   <!-- AZ-900: Microsoft Azure Fundamentals -->
-  <img src="https://www.credly.com/badges/1a2b3c4d5e6f7g8h9i0j/azure-fundamentals.png" alt="AZ-900: Microsoft Azure Fundamentals" width="100" style="margin: 10px;"/>
+  <img src="az900.png" alt="AZ-900: Microsoft Azure Fundamentals" width="230" style="margin: 30px;"/>
 
   <!-- AI-900: Microsoft Azure AI Fundamentals -->
-  <img src="https://www.credly.com/badges/1a2b3c4d5e6f7g8h9i0j/azure-ai-fundamentals.png" alt="AI-900: Microsoft Azure AI Fundamentals" width="100" style="margin: 10px;"/>
+  <img src="ai900.png" alt="AI-900: Microsoft Azure AI Fundamentals" width="230" style="margin: 30px;"/>
 
   <!-- AI-102: Microsoft Azure AI Engineer Associate -->
-  <img src="https://www.credly.com/badges/1a2b3c4d5e6f7g8h9i0j/azure-ai-engineer.png" alt="AI-102: Microsoft Azure AI Engineer Associate" width="100" style="margin: 10px;"/>
+  <img src="ai102.png" alt="AI-102: Microsoft Azure AI Engineer Associate" width="230" style="margin: 30px;"/>
 
   <!-- SC-900: Microsoft Security, Compliance, and Identity Fundamentals -->
-  <img src="https://www.credly.com/badges/1a2b3c4d5e6f7g8h9i0j/security-compliance-identity.png" alt="SC-900: Microsoft Security, Compliance, and Identity Fundamentals" width="100" style="margin: 10px;"/>
+  <img src="sc900.png" alt="SC-900: Microsoft Security, Compliance, and Identity Fundamentals" width="230" style="margin: 30px;"/>
 </div>
+
+
+<!-- GitHub Stats & Most Used Languages Section -->
+<h2 align="center" style="margin-top: 40px;">GitHub Stats</h2>
+<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; margin: 40px 0;">
+  
+  <!-- GitHub Stats -->
+  <div style="flex: 1 1 400px; max-width: 400px; text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=DevMpho&show_icons=true&theme=radical" alt="GitHub Stats" width="100%" style="border-radius: 10px;"/>
+  </div>
+  
+  <!-- Most Used Languages -->
+  <div style="flex: 1 1 400px; max-width: 400px; text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMpho&layout=compact&theme=radical" alt="Most Used Languages" width="100%" style="border-radius: 10px;"/>
+  </div>
+
+</div>
+
+
+
 
