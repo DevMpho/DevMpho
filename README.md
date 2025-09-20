@@ -35,10 +35,10 @@
 <h2  style="margin-top: 40px;">My Certifications</h2>
 <div style="text-align: center; margin: 40px 0;">
   
-  <img src="az900.png" alt="AZ-900: Microsoft Azure Fundamentals" width="230" style="margin: 30px;"/>
-  <img src="ai900.png" alt="AI-900: Microsoft Azure AI Fundamentals" width="230" style="margin: 30px;"/>
-  <img src="ai102.png" alt="AI-102: Microsoft Azure AI Engineer Associate" width="230" style="margin: 30px;"/>
-  <img src="sc900.png" alt="SC-900: Microsoft Security, Compliance, and Identity Fundamentals" width="230" style="margin: 30px;"/>
+  <img src="az900.png" alt="AZ-900: Microsoft Azure Fundamentals" width="200" style="margin: 30px;"/>
+  <img src="ai900.png" alt="AI-900: Microsoft Azure AI Fundamentals" width="200" style="margin: 30px;"/>
+  <img src="ai102.png" alt="AI-102: Microsoft Azure AI Engineer Associate" width="200" style="margin: 30px;"/>
+  <img src="sc900.png" alt="SC-900: Microsoft Security, Compliance, and Identity Fundamentals" width="200" style="margin: 30px;"/>
 </div>
 
 
@@ -60,38 +60,6 @@
   </tr>
 </table>
 
-<h2 style="margin-top: 40px; text-align: center;">Pinned Repositories</h2>
-
-<table align="center" style="border-collapse: collapse; margin: auto;">
-  <tr>
-    <td style="padding: 20px;">
-      <a href="https://github.com/DevMpho/cpp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMpho&repo=cpp&theme=radical" 
-             alt="cpp repo" />
-      </a>
-    </td>
-    <td style="padding: 20px;">
-      <a href="https://github.com/DevMpho/dribble-clone">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMpho&repo=dribble-clone&theme=radical" 
-             alt="dribble-clone repo" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 20px;">
-      <a href="https://github.com/DevMpho/Kaif89">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMpho&repo=Kaif89&theme=radical" 
-             alt="Kaif89 repo" />
-      </a>
-    </td>
-    <td style="padding: 20px;">
-      <a href="https://github.com/DevMpho/netflix-clone-">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMpho&repo=netflix-clone-&theme=radical" 
-             alt="netflix-clone repo" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 
 
